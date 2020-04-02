@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.absinthewizard" name="[COLOR limegreen][B]Absinthe[/B][/COLOR]Wizard" version="1.0" provider-name="Absintheboy">
+    <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]Absinthe[/B][/COLOR]Wizard">
+        <dir>
+            <info compressed="false">https://github.com/absintheboy/repository.absinthewizard/master/zips/addon.xml</info>
+            <checksum>https://github.com/absintheboy/repository.absinthewizard/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/absintheboy/repository.absinthewizard/master/zips/plugin.program.absinthewizard-1.0.zip</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLOR limegreen][B]Absinthe[/B][/COLOR]Wizard</summary>
+        <description>Absinthe Wizard</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
