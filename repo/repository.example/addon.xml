@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="AbsintheWizard" name="absintheboy.github.io
-" version="3.0" provider-name="Absintheboy">
-    <extension point="xbmc.addon.repository" name="Example Repository">
+<addon id="AbsintheWizard" name="absintheboy.github.io" version="3.0" provider-name="Absintheboy">
+    <extension point="xbmc.addon.repository" name="AbbsintheWizard">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/YOUR_USERNAME_HERE/REPOSITORY_NAME_HERE/DEFAULT_BRANCH_NAME_HERE/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Absintheboy/absintheboy.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Absintheboy/absintheboy.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Absintheboy/absintheboy.github.io/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>REPO_NAME_HERE</summary>
-        <description>DESCRIPTION OF YOUR REPO HERE</description>
+        <summary>AbsintheWizard</summary>
+        <description>REpo for AbsintheWizard</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
